@@ -1,0 +1,105 @@
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\bin\Debug\BTL_QLNS.exe.config
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\bin\Debug\BTL_QLNS.exe
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\bin\Debug\BTL_QLNS.pdb
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csprojAssemblyReference.cache
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangKy.resources
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangNhap.resources
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.ManHinhChinh.resources
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Properties.Resources.resources
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyduan.resources
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlynhanvien.resources
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyphongban.resources
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.GenerateResource.cache
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.CoreCompileInputs.cache
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.exe
+D:\Winform\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.pdb
+D:\Winform\LTW13\BTL_QLNS\bin\Debug\BTL_QLNS.exe.config
+D:\Winform\LTW13\BTL_QLNS\bin\Debug\BTL_QLNS.exe
+D:\Winform\LTW13\BTL_QLNS\bin\Debug\BTL_QLNS.pdb
+D:\Winform\LTW13\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csprojAssemblyReference.cache
+D:\Winform\LTW13\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangKy.resources
+D:\Winform\LTW13\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangNhap.resources
+D:\Winform\LTW13\BTL_QLNS\obj\x86\Debug\BTL_QLNS.ManHinhChinh.resources
+D:\Winform\LTW13\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Properties.Resources.resources
+D:\Winform\LTW13\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyduan.resources
+D:\Winform\LTW13\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlynhanvien.resources
+D:\Winform\LTW13\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyphongban.resources
+D:\Winform\LTW13\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.GenerateResource.cache
+D:\Winform\LTW13\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.CoreCompileInputs.cache
+D:\Winform\LTW13\BTL_QLNS\obj\x86\Debug\BTL_QLNS.exe
+D:\Winform\LTW13\BTL_QLNS\obj\x86\Debug\BTL_QLNS.pdb
+D:\Winform\LTW13 - Copy\BTL_QLNS\bin\Debug\BTL_QLNS.exe.config
+D:\Winform\LTW13 - Copy\BTL_QLNS\bin\Debug\BTL_QLNS.exe
+D:\Winform\LTW13 - Copy\BTL_QLNS\bin\Debug\BTL_QLNS.pdb
+D:\Winform\LTW13 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csprojAssemblyReference.cache
+D:\Winform\LTW13 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangKy.resources
+D:\Winform\LTW13 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangNhap.resources
+D:\Winform\LTW13 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.ManHinhChinh.resources
+D:\Winform\LTW13 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Properties.Resources.resources
+D:\Winform\LTW13 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyduan.resources
+D:\Winform\LTW13 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlynhanvien.resources
+D:\Winform\LTW13 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyphongban.resources
+D:\Winform\LTW13 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.GenerateResource.cache
+D:\Winform\LTW13 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.CoreCompileInputs.cache
+D:\Winform\LTW13 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.exe
+D:\Winform\LTW13 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.pdb
+D:\Winform\LTW11 - fix2\BTL_QLNS\bin\Debug\BTL_QLNS.exe.config
+D:\Winform\LTW11 - fix2\BTL_QLNS\bin\Debug\BTL_QLNS.exe
+D:\Winform\LTW11 - fix2\BTL_QLNS\bin\Debug\BTL_QLNS.pdb
+D:\Winform\LTW11 - fix2\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csprojAssemblyReference.cache
+D:\Winform\LTW11 - fix2\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangKy.resources
+D:\Winform\LTW11 - fix2\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangNhap.resources
+D:\Winform\LTW11 - fix2\BTL_QLNS\obj\x86\Debug\BTL_QLNS.ManHinhChinh.resources
+D:\Winform\LTW11 - fix2\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Properties.Resources.resources
+D:\Winform\LTW11 - fix2\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyduan.resources
+D:\Winform\LTW11 - fix2\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlynhanvien.resources
+D:\Winform\LTW11 - fix2\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyphongban.resources
+D:\Winform\LTW11 - fix2\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.GenerateResource.cache
+D:\Winform\LTW11 - fix2\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.CoreCompileInputs.cache
+D:\Winform\LTW11 - fix2\BTL_QLNS\obj\x86\Debug\BTL_QLNS.exe
+D:\Winform\LTW11 - fix2\BTL_QLNS\obj\x86\Debug\BTL_QLNS.pdb
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\bin\Debug\BTL_QLNS.exe.config
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\bin\Debug\BTL_QLNS.exe
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\bin\Debug\BTL_QLNS.pdb
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csprojAssemblyReference.cache
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangKy.resources
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangNhap.resources
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.ManHinhChinh.resources
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Properties.Resources.resources
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyduan.resources
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlynhanvien.resources
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyphongban.resources
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.GenerateResource.cache
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.CoreCompileInputs.cache
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.exe
+D:\Winform\LTW11 - fix2 - Copy\BTL_QLNS\obj\x86\Debug\BTL_QLNS.pdb
+D:\Winform\LTW11 - fix3\BTL_QLNS\bin\Debug\BTL_QLNS.exe.config
+D:\Winform\LTW11 - fix3\BTL_QLNS\bin\Debug\BTL_QLNS.exe
+D:\Winform\LTW11 - fix3\BTL_QLNS\bin\Debug\BTL_QLNS.pdb
+D:\Winform\LTW11 - fix3\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csprojAssemblyReference.cache
+D:\Winform\LTW11 - fix3\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangKy.resources
+D:\Winform\LTW11 - fix3\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangNhap.resources
+D:\Winform\LTW11 - fix3\BTL_QLNS\obj\x86\Debug\BTL_QLNS.ManHinhChinh.resources
+D:\Winform\LTW11 - fix3\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Properties.Resources.resources
+D:\Winform\LTW11 - fix3\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyduan.resources
+D:\Winform\LTW11 - fix3\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlynhanvien.resources
+D:\Winform\LTW11 - fix3\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyphongban.resources
+D:\Winform\LTW11 - fix3\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.GenerateResource.cache
+D:\Winform\LTW11 - fix3\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.CoreCompileInputs.cache
+D:\Winform\LTW11 - fix3\BTL_QLNS\obj\x86\Debug\BTL_QLNS.exe
+D:\Winform\LTW11 - fix3\BTL_QLNS\obj\x86\Debug\BTL_QLNS.pdb
+D:\Winform\LTW11 - fix4\BTL_QLNS\bin\Debug\BTL_QLNS.exe.config
+D:\Winform\LTW11 - fix4\BTL_QLNS\bin\Debug\BTL_QLNS.exe
+D:\Winform\LTW11 - fix4\BTL_QLNS\bin\Debug\BTL_QLNS.pdb
+D:\Winform\LTW11 - fix4\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csprojAssemblyReference.cache
+D:\Winform\LTW11 - fix4\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangKy.resources
+D:\Winform\LTW11 - fix4\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangNhap.resources
+D:\Winform\LTW11 - fix4\BTL_QLNS\obj\x86\Debug\BTL_QLNS.ManHinhChinh.resources
+D:\Winform\LTW11 - fix4\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Properties.Resources.resources
+D:\Winform\LTW11 - fix4\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyduan.resources
+D:\Winform\LTW11 - fix4\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlynhanvien.resources
+D:\Winform\LTW11 - fix4\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyphongban.resources
+D:\Winform\LTW11 - fix4\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.GenerateResource.cache
+D:\Winform\LTW11 - fix4\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.CoreCompileInputs.cache
+D:\Winform\LTW11 - fix4\BTL_QLNS\obj\x86\Debug\BTL_QLNS.exe
+D:\Winform\LTW11 - fix4\BTL_QLNS\obj\x86\Debug\BTL_QLNS.pdb

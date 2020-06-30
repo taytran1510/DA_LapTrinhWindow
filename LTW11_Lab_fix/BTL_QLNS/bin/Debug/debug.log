@@ -1,0 +1,1020 @@
+[0612/063533.563:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a39f0 of 6656 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.564:ERROR:process_snapshot_win.cc(344)] failed to read unloaded module data
+[0612/063533.566:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff692600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.566:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0612/063533.566:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff692600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.566:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0612/063533.566:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5b860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.567:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0612/063533.567:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5b860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.567:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0612/063533.567:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59bc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.567:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0612/063533.567:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59bc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.567:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0612/063533.567:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd1cd40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.567:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge_elf.dll
+[0612/063533.567:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd1cd40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.567:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge_elf.dll
+[0612/063533.567:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a990000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.567:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0612/063533.567:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a990000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.567:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0612/063533.567:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bb40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.567:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0612/063533.567:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bb40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.567:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0612/063533.567:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.568:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0612/063533.568:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.568:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0612/063533.568:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bc20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.568:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0612/063533.568:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bc20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.568:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0612/063533.568:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.568:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0612/063533.568:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.568:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0612/063533.568:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcfa4e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.568:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge.dll
+[0612/063533.568:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcfa4e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.568:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge.dll
+[0612/063533.568:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c850000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.568:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0612/063533.568:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c850000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.568:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0612/063533.568:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c780000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.568:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0612/063533.569:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c780000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.569:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0612/063533.569:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aa30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.569:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0612/063533.569:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aa30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.569:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0612/063533.569:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a060000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.569:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0612/063533.569:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a060000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.569:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0612/063533.569:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bf30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.569:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0612/063533.569:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bf30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.569:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0612/063533.569:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aad0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.569:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0612/063533.569:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aad0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.569:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0612/063533.569:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.569:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0612/063533.569:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.569:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0612/063533.570:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.570:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0612/063533.570:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.570:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0612/063533.570:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd58f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.570:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0612/063533.570:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd58f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.570:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0612/063533.570:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4be20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.570:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0612/063533.570:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4be20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.570:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0612/063533.570:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cb80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.570:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0612/063533.570:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cb80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.570:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0612/063533.570:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.570:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0612/063533.570:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.570:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0612/063533.570:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.570:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0612/063533.571:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.571:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0612/063533.571:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd2f8a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.571:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0612/063533.571:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd2f8a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.571:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0612/063533.571:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd55120000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.571:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0612/063533.571:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd55120000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.571:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0612/063533.571:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3c260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.571:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0612/063533.571:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3c260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.571:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0612/063533.571:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.571:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0612/063533.571:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.572:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0612/063533.572:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.572:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0612/063533.572:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.572:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0612/063533.572:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5ab60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.572:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0612/063533.572:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5ab60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.572:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0612/063533.572:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd51e80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.572:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0612/063533.572:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd51e80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.572:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0612/063533.572:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd544f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.572:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0612/063533.572:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd544f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.572:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0612/063533.572:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c8c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.572:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0612/063533.572:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c8c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.572:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0612/063533.572:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4bdf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.572:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0612/063533.572:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4bdf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.573:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0612/063533.573:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.573:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0612/063533.573:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.573:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0612/063533.573:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd584b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.573:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0612/063533.573:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd584b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.573:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0612/063533.573:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.573:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0612/063533.573:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.573:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0612/063533.573:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd598c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.573:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0612/063533.573:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd598c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.573:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0612/063533.573:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd593e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.573:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0612/063533.573:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd593e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.573:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0612/063533.573:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59bc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.573:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0612/063533.574:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff692600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.574:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0612/063533.574:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cae0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.574:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0612/063533.574:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5b860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.574:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0612/063533.574:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59bc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.574:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0612/063533.574:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd1cd40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.574:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge_elf.dll
+[0612/063533.574:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a990000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.574:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0612/063533.574:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bb40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.574:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0612/063533.574:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.574:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0612/063533.574:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bc20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.574:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0612/063533.574:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.574:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0612/063533.574:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcfa4e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.575:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge.dll
+[0612/063533.575:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c850000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.575:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0612/063533.575:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c780000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.575:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0612/063533.575:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aa30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.575:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0612/063533.575:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a060000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.575:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0612/063533.575:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bf30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.575:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0612/063533.575:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aad0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.575:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0612/063533.575:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.575:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0612/063533.575:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.575:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0612/063533.575:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd58f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.575:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0612/063533.575:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4be20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.575:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0612/063533.575:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cb80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.575:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0612/063533.575:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.575:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0612/063533.576:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.576:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0612/063533.576:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd2f8a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.576:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0612/063533.576:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd55120000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.576:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0612/063533.576:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3c260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.576:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0612/063533.576:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.576:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0612/063533.576:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.576:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0612/063533.576:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5ab60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.577:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0612/063533.577:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd51e80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.577:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0612/063533.577:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd544f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.577:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0612/063533.577:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c8c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.577:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0612/063533.577:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4bdf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.577:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0612/063533.577:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.577:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0612/063533.577:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd584b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.578:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0612/063533.578:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.578:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0612/063533.578:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd598c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.578:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0612/063533.578:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd593e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.578:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0612/063533.582:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff692600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.582:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0612/063533.582:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cae0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.582:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0612/063533.582:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5b860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.582:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0612/063533.582:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59bc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.583:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0612/063533.583:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd1cd40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.583:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge_elf.dll
+[0612/063533.583:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a990000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.583:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0612/063533.583:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bb40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.583:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0612/063533.583:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.583:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0612/063533.583:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bc20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.583:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0612/063533.583:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.583:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0612/063533.583:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcfa4e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.583:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge.dll
+[0612/063533.583:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c850000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.583:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0612/063533.583:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c780000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.583:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0612/063533.583:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aa30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.583:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0612/063533.584:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a060000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.584:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0612/063533.584:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bf30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.584:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0612/063533.584:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aad0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.584:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0612/063533.584:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.584:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0612/063533.584:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.584:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0612/063533.584:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd58f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.584:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0612/063533.584:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4be20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.584:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0612/063533.584:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cb80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.584:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0612/063533.584:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.584:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0612/063533.584:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.584:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0612/063533.584:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd2f8a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.584:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0612/063533.584:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd55120000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.584:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0612/063533.585:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3c260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.585:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0612/063533.585:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.585:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0612/063533.585:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.585:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0612/063533.585:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5ab60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.585:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0612/063533.585:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd51e80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.585:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0612/063533.585:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd544f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.585:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0612/063533.585:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c8c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.585:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0612/063533.586:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4bdf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.586:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0612/063533.586:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.586:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0612/063533.586:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd584b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.586:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0612/063533.586:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.586:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0612/063533.586:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd598c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.586:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0612/063533.586:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd593e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.586:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0612/063533.586:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff692600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.586:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0612/063533.587:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cae0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.587:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0612/063533.587:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5b860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.587:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0612/063533.587:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59bc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.587:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0612/063533.587:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd1cd40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.587:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge_elf.dll
+[0612/063533.587:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a990000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.587:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0612/063533.587:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bb40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.587:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0612/063533.587:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.587:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0612/063533.587:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bc20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.587:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0612/063533.587:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.587:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0612/063533.588:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcfa4e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.588:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge.dll
+[0612/063533.588:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c850000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.588:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0612/063533.588:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c780000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.588:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0612/063533.588:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aa30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.588:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0612/063533.588:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a060000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.588:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0612/063533.588:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bf30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.588:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0612/063533.588:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aad0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.588:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0612/063533.588:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.588:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0612/063533.588:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.588:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0612/063533.588:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd58f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.588:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0612/063533.588:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4be20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.588:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0612/063533.588:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cb80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.588:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0612/063533.588:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.589:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0612/063533.589:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.589:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0612/063533.589:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd2f8a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.589:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0612/063533.589:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd55120000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.589:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0612/063533.589:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3c260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.589:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0612/063533.589:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.589:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0612/063533.589:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.589:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0612/063533.589:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5ab60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.589:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0612/063533.589:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd51e80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.589:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0612/063533.589:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd544f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.589:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0612/063533.589:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c8c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.589:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0612/063533.589:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4bdf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.589:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0612/063533.589:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.589:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0612/063533.590:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd584b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.590:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0612/063533.590:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.590:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0612/063533.590:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd598c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.590:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0612/063533.590:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd593e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.590:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0612/063533.606:ERROR:minidumpwritedump_with_crashpad_info.cc(435)] Failed to call MiniDumpWriteDump: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x8007012B)
+[0612/063533.606:ERROR:minidumpwritedump_with_crashpad_info.cc(592)] Failed to write minidump file
+[0612/063533.606:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[0612/063533.608:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff692600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.608:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0612/063533.608:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cae0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.608:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0612/063533.608:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5b860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.608:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0612/063533.608:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd1cd40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.608:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge_elf.dll
+[0612/063533.608:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a990000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.608:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0612/063533.608:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bb40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.608:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0612/063533.608:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.608:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0612/063533.608:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bc20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.608:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0612/063533.608:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.608:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0612/063533.608:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcfa4e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.609:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge.dll
+[0612/063533.609:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c850000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.609:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0612/063533.609:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c780000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.609:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0612/063533.609:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aa30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.609:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0612/063533.609:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a060000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.609:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0612/063533.609:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bf30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.609:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0612/063533.609:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aad0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.609:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0612/063533.609:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.609:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0612/063533.609:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.609:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0612/063533.609:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd58f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.609:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0612/063533.609:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4be20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.609:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0612/063533.609:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cb80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.609:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0612/063533.610:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.610:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0612/063533.610:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.610:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0612/063533.610:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd2f8a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.610:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0612/063533.610:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd55120000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.610:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0612/063533.610:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3c260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.610:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0612/063533.610:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.610:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0612/063533.610:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.610:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0612/063533.610:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5ab60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.610:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0612/063533.610:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd51e80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.610:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0612/063533.610:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd544f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.610:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0612/063533.610:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c8c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.610:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0612/063533.610:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4bdf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.610:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0612/063533.611:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.611:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0612/063533.611:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd584b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.611:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0612/063533.611:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.611:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0612/063533.611:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd598c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.611:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0612/063533.611:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd593e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.611:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0612/063533.611:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff692600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.611:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0612/063533.611:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff692600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.611:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0612/063533.611:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cae0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.611:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0612/063533.611:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cae0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.611:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0612/063533.611:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5b860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.611:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0612/063533.612:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5b860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.612:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0612/063533.612:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59bc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.612:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0612/063533.612:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59bc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.612:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0612/063533.612:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd1cd40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.612:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge_elf.dll
+[0612/063533.612:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd1cd40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.612:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge_elf.dll
+[0612/063533.612:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a990000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.612:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0612/063533.612:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a990000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.613:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0612/063533.613:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bb40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.613:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0612/063533.613:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bb40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.613:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0612/063533.613:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.613:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0612/063533.613:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.613:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0612/063533.613:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bc20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.613:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0612/063533.613:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bc20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.613:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0612/063533.613:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.613:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0612/063533.613:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.613:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0612/063533.613:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcfa4e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.613:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge.dll
+[0612/063533.613:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcfa4e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.613:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge.dll
+[0612/063533.613:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c850000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.613:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0612/063533.614:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c850000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.614:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0612/063533.614:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c780000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.614:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0612/063533.614:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c780000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.614:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0612/063533.614:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aa30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.614:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0612/063533.614:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aa30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.614:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0612/063533.614:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a060000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.614:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0612/063533.614:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a060000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.614:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0612/063533.614:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bf30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.614:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0612/063533.614:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bf30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.614:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0612/063533.614:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aad0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.614:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0612/063533.614:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aad0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.614:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0612/063533.615:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.615:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0612/063533.615:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.615:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0612/063533.615:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.615:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0612/063533.615:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.615:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0612/063533.615:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd58f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.615:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0612/063533.615:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd58f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.615:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0612/063533.615:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4be20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.615:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0612/063533.615:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4be20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.615:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0612/063533.615:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cb80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.615:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0612/063533.615:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cb80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.615:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0612/063533.615:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.615:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0612/063533.615:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.616:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0612/063533.616:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.616:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0612/063533.616:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.616:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0612/063533.616:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd2f8a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.616:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0612/063533.616:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd2f8a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.616:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0612/063533.616:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd55120000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.616:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0612/063533.616:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd55120000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.616:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0612/063533.616:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3c260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.616:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0612/063533.616:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3c260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.616:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0612/063533.616:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.616:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0612/063533.616:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.616:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0612/063533.616:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.616:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0612/063533.617:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.617:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0612/063533.617:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5ab60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.617:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0612/063533.617:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5ab60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.617:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0612/063533.617:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd51e80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.617:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0612/063533.617:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd51e80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.617:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0612/063533.617:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd544f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.617:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0612/063533.617:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd544f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.617:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0612/063533.617:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c8c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.617:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0612/063533.617:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c8c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.617:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0612/063533.617:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4bdf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.617:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0612/063533.617:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4bdf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.617:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0612/063533.617:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.618:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0612/063533.618:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.618:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0612/063533.618:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd584b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.618:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0612/063533.618:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd584b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.618:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0612/063533.618:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.618:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0612/063533.618:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.618:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0612/063533.618:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd598c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.618:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0612/063533.618:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd598c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.618:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0612/063533.618:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd593e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.618:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0612/063533.618:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd593e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.618:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0612/063533.641:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff692600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.641:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0612/063533.641:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cae0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.641:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0612/063533.641:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5b860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.641:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0612/063533.641:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59bc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.641:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0612/063533.642:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd1cd40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.642:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge_elf.dll
+[0612/063533.642:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a990000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.642:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0612/063533.642:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bb40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.642:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0612/063533.642:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.642:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0612/063533.642:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bc20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.642:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0612/063533.642:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.642:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0612/063533.642:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcfa4e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.642:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge.dll
+[0612/063533.642:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c850000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.642:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0612/063533.642:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c780000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.642:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0612/063533.642:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aa30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.642:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0612/063533.642:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a060000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.642:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0612/063533.643:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bf30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.643:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0612/063533.643:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aad0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.643:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0612/063533.643:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.643:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0612/063533.643:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.643:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0612/063533.643:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd58f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.643:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0612/063533.643:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4be20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.643:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0612/063533.643:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cb80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.643:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0612/063533.643:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.643:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0612/063533.643:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.643:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0612/063533.643:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd2f8a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.643:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0612/063533.643:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd55120000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.644:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0612/063533.644:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3c260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.644:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0612/063533.644:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.644:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0612/063533.644:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.644:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0612/063533.644:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5ab60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.644:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0612/063533.644:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd51e80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.644:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0612/063533.644:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd544f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.644:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0612/063533.644:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c8c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.644:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0612/063533.644:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4bdf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.644:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0612/063533.644:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.644:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0612/063533.644:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd584b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.644:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0612/063533.644:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.645:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0612/063533.645:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd598c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.645:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0612/063533.645:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd593e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.645:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff692600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cae0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5b860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59bc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd1cd40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge_elf.dll
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a990000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bb40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bc20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcfa4e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge.dll
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c850000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c780000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aa30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a060000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.648:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0612/063533.648:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bf30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aad0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd58f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4be20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cb80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd2f8a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd55120000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3c260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5ab60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd51e80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd544f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c8c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0612/063533.649:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4bdf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.649:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd584b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd598c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd593e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff692600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cae0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5b860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59bc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd1cd40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge_elf.dll
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a990000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bb40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bc20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c270000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0612/063533.650:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffcfa4e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.650:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Microsoft\Edge\Application\83.0.478.45\msedge.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c850000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c780000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aa30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a060000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5bf30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5aad0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59a70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd58f20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4be20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cb80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd2f8a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd55120000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3c260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd599b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0612/063533.651:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5ab60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.651:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0612/063533.652:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd51e80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.652:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0612/063533.652:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd544f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.652:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0612/063533.652:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c8c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.652:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0612/063533.652:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4bdf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.652:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0612/063533.652:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5a010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.652:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0612/063533.652:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd584b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.652:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0612/063533.652:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5c390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.652:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0612/063533.652:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd598c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.652:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0612/063533.652:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd593e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.652:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0612/063533.658:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d445f2000 of 57344 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.658:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d44dfe000 of 8192 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.658:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d455fd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d45dfc000 of 16384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d465fc000 of 16384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d46dfc000 of 16384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d475fd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d47dfb000 of 20480 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d485fd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d48dfc000 of 16384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d495fd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d49dfd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d4a5fd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d4adfd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d4b5fd000 of 12288 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43c00000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43c02000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43c04000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43c06000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43c08000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43c0a000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43c0c000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43c0e000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43c10000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43c12000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43c14000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43df6000 of 852 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43df7000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43df9000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43dfb000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6d43dfd000 of 6024 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b83f702c0 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.660:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b83f802c0 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840902c0 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84090770 of 48 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84090fe0 of 8394 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840930c0 of 1012 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84093708 of 120 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84093782 of 836 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84093ac8 of 120 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84093b42 of 96 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84093bb0 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84093cb0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84093e40 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84093f50 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840943e0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84094570 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84094730 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.661:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840949d0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84094b60 of 68 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84095b70 of 152 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84098760 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84098a80 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84098c10 of 80 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409bbb0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409be20 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409be70 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409bfb0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c000 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c0a0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c0f0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c1e0 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c230 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c280 of 66 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c2d0 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.662:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c320 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c370 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c410 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c4b0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c5f0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c6e0 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409c730 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409caa0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409caf0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409cc30 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409d4e0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409d750 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409d880 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409ebb0 of 54 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409f160 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409f850 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8409f980 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a0530 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a0580 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a0670 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a09e0 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a0a80 of 66 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a0ad0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a0b20 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a0bc0 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a10f0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a1ab0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a1e00 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a3950 of 144 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a5450 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a56b0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a57e0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a5910 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a5a40 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a5b70 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a5ca0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a5dd0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a5f00 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a6030 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a6160 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a6290 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a67c0 of 80 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a7180 of 76 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a8960 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a8da0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a9470 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a95a0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840a9df0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840aa050 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840aa180 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840aa2b0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840aa3e0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840aa770 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840aae90 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840ac2e0 of 124 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840b1870 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840b56c0 of 48 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840b57c0 of 48 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b840b5a80 of 48 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b842f02c0 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84301240 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84302b00 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b843702c0 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b844402c0 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b844d02c0 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8483d788 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8483e238 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8484ee38 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.666:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b84868a50 of 736 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.667:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b848708e0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.667:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b8489a880 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.667:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b849602c0 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.667:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b86290000 of 384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.667:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b862a87b0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.667:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b863bf908 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.667:ERROR:process_memory_win.cc(73)] ReadMemory at 0x23b86936b20 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.667:ERROR:process_memory_win.cc(73)] ReadMemory at 0x41ee080bab34 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.667:ERROR:process_memory_win.cc(73)] ReadMemory at 0x41ee08a0fe30 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.667:ERROR:process_memory_win.cc(73)] ReadMemory at 0x41ee08a400a0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.667:ERROR:process_memory_win.cc(73)] ReadMemory at 0x41ee08a7ff80 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.668:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd1ce22f40 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.668:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd598e8cb0 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.668:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59bfa719 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.668:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd59e2c6e0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.668:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5b876550 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.668:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5b877b54 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.668:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cb7c074 of 832 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.668:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cb7f924 of 608 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.668:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cc0c428 of 18 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.669:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cc3f4f8 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.669:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cc3f560 of 48 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.669:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cc3f978 of 48 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.669:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cc43be0 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.669:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cc43d40 of 384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.669:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5cc453c0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0612/063533.670:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
